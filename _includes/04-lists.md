@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+My top 3 favourite things to do:
+- Fitness
+- Reading
+- Cooking
